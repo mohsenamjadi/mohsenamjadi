@@ -9,13 +9,13 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Solidity](https://img.shields.io/badge/-solidity-black?style=flat-square&logo=solidity)
-![Spring](https://img.shields.io/badge/-spring-E3F7BE?style=flat-square&logo=spring)
+![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity)
+![Spring](https://img.shields.io/badge/-Spring-E3F7BE?style=flat-square&logo=spring)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Keras](https://img.shields.io/badge/-keras-D5310E?style=flat-square&logo=keras)
-![Tensorflow](https://img.shields.io/badge/-tensorflow-D3B5AC?style=flat-square&logo=tensorflow)
-![Numpy](https://img.shields.io/badge/-numpy-black?style=flat-square&logo=numpy)
-![Pandas](https://img.shields.io/badge/-pandas-F4B6F6?style=flat-square&logo=pandas)
+![Keras](https://img.shields.io/badge/-Keras-D5310E?style=flat-square&logo=keras)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-D3B5AC?style=flat-square&logo=tensorflow)
+![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-F4B6F6?style=flat-square&logo=pandas)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
@@ -26,4 +26,4 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenamjadi&layout=compact&langs_count=9&hide=HTML&theme=cobalt)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenamjadi&layout=compact&langs_count=9&hide=HTML&theme=cobalt)
