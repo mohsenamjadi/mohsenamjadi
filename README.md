@@ -25,6 +25,8 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Pandas](https://img.shields.io/badge/-Pandas-F4B6F6?style=flat-square&logo=pandas)
+![Scipy](https://img.shields.io/badge/-Scipy-C6FAE3?style=flat-square&logo=scipy)
+![PyTorch](https://img.shields.io/badge/-PyTorch-FEE2BF?style=flat-square&logo=PyTorch)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenamjadi&layout=compact&langs_count=9&hide=HTML&theme=cobalt)
