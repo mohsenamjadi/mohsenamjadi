@@ -16,7 +16,6 @@
 ![Keras](https://img.shields.io/badge/-Keras-D5310E?style=flat-square&logo=keras)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-D3B5AC?style=flat-square&logo=tensorflow)
 ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-F4B6F6?style=flat-square&logo=pandas)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
@@ -25,6 +24,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Pandas](https://img.shields.io/badge/-Pandas-F4B6F6?style=flat-square&logo=pandas)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenamjadi&layout=compact&langs_count=9&hide=HTML&theme=cobalt)
