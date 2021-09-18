@@ -29,4 +29,4 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-FEE2BF?style=flat-square&logo=PyTorch)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenamjadi&layout=compact&langs_count=9&hide=HTML&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenamjadi&layout=compact&langs_count=12&hide=HTML&theme=cobalt)
