@@ -11,6 +11,7 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity)
 ![Spring](https://img.shields.io/badge/-Spring-E3F7BE?style=flat-square&logo=spring)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Keras](https://img.shields.io/badge/-Keras-D5310E?style=flat-square&logo=keras)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-D3B5AC?style=flat-square&logo=tensorflow)
