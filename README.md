@@ -2,6 +2,8 @@
 <p><a href="https://www.linkedin.com/in/mohsenamjadi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@mohsenamjad" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=mohsenamjadi&color=blueviolet)
+
 ## ⚡ Technologies
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
