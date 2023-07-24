@@ -25,6 +25,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=kafka)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
+![RabitMQ](https://img.shields.io/badge/-RabitMQ-black?style=flat-square&logo=rabitmq)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
