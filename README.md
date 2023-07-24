@@ -16,6 +16,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-E3F7BE?style=flat-square&logo=spring)
 ![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity)
 ![Keras](https://img.shields.io/badge/-Keras-D5310E?style=flat-square&logo=keras)
+![Pandas](https://img.shields.io/badge/-Pandas-D5310E?style=flat-square&logo=pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-D3B5AC?style=flat-square&logo=tensorflow)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
