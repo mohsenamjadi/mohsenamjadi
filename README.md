@@ -12,7 +12,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=NestJS)
+![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=NestJS&logoColor=crimson)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Spring](https://img.shields.io/badge/-Spring-E3F7BE?style=flat-square&logo=spring)
