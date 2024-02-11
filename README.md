@@ -49,6 +49,7 @@
 ## 🚀 GitHub Stats
 
 ![GitHub stars](https://img.shields.io/github/stars/mohsenamjadi?style=flat-square)
-Total Pull Requests: ![Total Pull Requests](https://img.shields.io/github/issues-pr/mohsenamjadi/mohsenamjadi?style=flat-square)
+![GitHub commits](https://img.shields.io/github/commits-master/mohsenamjadi?style=flat-square)
+
 
 
