@@ -48,8 +48,7 @@
 
 ## 🚀 GitHub Stats
 
-![GitHub stars](https://img.shields.io/github/stars/mohsenamjadi?style=flat-square)
-![GitHub commits](https://img.shields.io/github/commits-main/mohsenamjadi?style=flat-square)
+[![Mohsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsenamjadi)](https://github.com/mohsenamjadi/github-readme-stats)
 
 
 
