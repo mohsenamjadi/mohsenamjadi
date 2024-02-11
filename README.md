@@ -43,13 +43,3 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenamjadi&layout=compact&langs_count=12&hide=HTML&theme=midnight-purple)
-
-
-
-### Trophies
-[![trophy](https://github-trophies.vercel.app/?username=mohsenamjadi&theme=onedark)](https://github.com/mohsenamjadi/github-darkhub)
-
-
-
-
-
