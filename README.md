@@ -43,12 +43,3 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenamjadi&layout=compact&langs_count=12&hide=HTML&theme=cobalt)
-
-
-
-## 🚀 GitHub Stats
-
-[![Mohsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsenamjadi)](https://github.com/mohsenamjadi/github-readme-stats)
-
-
-
