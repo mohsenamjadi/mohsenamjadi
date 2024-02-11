@@ -49,7 +49,6 @@
 ## 🚀 GitHub Stats
 
 ![GitHub stars](https://img.shields.io/github/stars/mohsenamjadi?style=flat-square)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/mohsenamjadi?style=flat-square)
-![GitHub commits](https://img.shields.io/github/commits-since/mohsenamjadi/latest/master?style=flat-square)
-![GitHub co-authored commits](https://img.shields.io/github/commit-activity/m/mohsenamjadi?co-author=mohsenamjadi&style=flat-square)
+![GitHub commits](https://img.shields.io/github/last-commit/mohsenamjadi/mohsenamjadi?style=flat-square)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/mohsenamjadi/mohsenamjadi?style=flat-square)
 
