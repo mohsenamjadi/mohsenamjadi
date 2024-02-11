@@ -42,4 +42,4 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenamjadi&layout=compact&langs_count=12&hide=HTML&theme=ambient_gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenamjadi&layout=compact&langs_count=12&hide=HTML&theme=react)
