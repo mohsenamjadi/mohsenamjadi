@@ -49,7 +49,7 @@
 ## 🚀 GitHub Stats
 
 ![GitHub stars](https://img.shields.io/github/stars/mohsenamjadi?style=flat-square)
-![GitHub commits](https://img.shields.io/github/commits-master/mohsenamjadi?style=flat-square)
+![GitHub commits](https://img.shields.io/github/commits-main/mohsenamjadi?style=flat-square)
 
 
 
