@@ -46,9 +46,8 @@
 
 
 
-
-[![trophy](https://github-trophies.vercel.app/?username=mohsenamjadi)](https://github.com/mohsenamjadi/github-trophies)
-
+### Trophies
+[![trophy](https://github-trophies.vercel.app/?username=mohsenamjadi&theme=onedark)](https://github.com/mohsenamjadi/github-darkhub)
 
 
 
