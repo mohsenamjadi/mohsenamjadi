@@ -44,3 +44,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenamjadi&layout=compact&langs_count=12&hide=HTML&theme=cobalt)
 
+
+
+## 🚀 GitHub Stats
+
+![GitHub stars](https://img.shields.io/github/stars/mohsenamjadi?style=flat-square)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/mohsenamjadi?style=flat-square)
+![GitHub commits](https://img.shields.io/github/commits-since/mohsenamjadi/latest/master?style=flat-square)
+![GitHub co-authored commits](https://img.shields.io/github/commit-activity/m/mohsenamjadi?co-author=mohsenamjadi&style=flat-square)
+
