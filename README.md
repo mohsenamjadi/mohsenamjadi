@@ -29,7 +29,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ![Keras](https://img.shields.io/badge/-Keras-D5310E?style=flat-square&logo=keras)
-![Pandas](https://img.shields.io/badge/-Pandas-D5310E?style=flat-square&logo=pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-D3B5AC?style=flat-square&logo=tensorflow)
 ![Pandas](https://img.shields.io/badge/-Pandas-F4B6F6?style=flat-square&logo=pandas)
